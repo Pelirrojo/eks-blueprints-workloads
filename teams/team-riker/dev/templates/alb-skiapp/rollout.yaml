@@ -95,3 +95,4 @@ spec:
             name: skiapp-service-preview
             port:
               number: 80
+EOF
